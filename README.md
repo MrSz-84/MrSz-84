@@ -9,57 +9,30 @@ This is the place where I share my projects. I primarily focus on **data collect
 ---
 ### Skills & Interests
 * **Programming Languages:**
-  <p align="left">
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-    </a>
-    <a href="https://sqlite.org/" target="_blank">
-      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
-    </a>
-  </p>
+
+  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![SQL Badge](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
 
 * **Data Tools:**
-  <p align="left">
-    <a href="https://cloud.google.com/bigquery" target="_blank">
-      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery Badge">
-    </a>
-    <a href="https://www.microsoft.com/power-platform/products/power-bi/" target="_blank">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI Badge">
-    </a>
-    <a href="https://cloud.google.com/bigquery" target="_blank">
-      <img src="https://img.shields.io/badge/DAX-667799?style=for-the-badge&logoColor=white" alt="DAX Badge">
-    </a>
-    <a href="https://lookerstudio.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Looker%20Studio-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio Badge">
-    </a>
-    <a href="https://marketingplatform.google.com/about/analytics/" target="_blank">
-      <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics Badge">
-    </a>
-  </p>
+
+  [![BigQuery Badge"](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
+  [![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi/)
+  [![DAX Badge](https://img.shields.io/badge/DAX-667799?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/dax/)
+  [![Looker Studio Badge](https://img.shields.io/badge/Looker%20Studio-1A73E8?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
+  [![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://marketingplatform.google.com/about/analytics/)
+
+  
+
 
 * **Cloud Platform:**
-  <p align="left">
-    <a href="https://cloud.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge">
-    </a>
-  </p>
+
+  [![GCP Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 * **IDEs:**
-  <p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code Badge">
-    </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-      <img src="https://img.shields.io/badge/PyCharm-222222.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm Badge">
-    </a>
-    <a href="https://jupyter.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="PyCharm Badge">
-    </a>
-  </p>
-  
-  
-   	
-  
+
+  [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+  [![PyCharm Badge](https://img.shields.io/badge/PyCharm-222222.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+  [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
  
 * **Interests:** Data Wrangling, Data Analysis, ETL, Automation
 
@@ -72,23 +45,10 @@ This is the place where I share my projects. I primarily focus on **data collect
 
 ---
 ### Let's connect!
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/marcin-borowski-a77ba4158/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-  </p>
 
-  <p align="left">
-  <a href="mailto:marcin.borowski84@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-  </p>
-
-  <p align="left">
-  <a href="https://github.com/MrSz-84">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  </a>
-  </p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-borowski-a77ba4158/)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcin.borowski84@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSz-84)
 
 
 <!---
