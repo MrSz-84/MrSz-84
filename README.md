@@ -10,20 +10,39 @@ This is the place where I share my projects. I primarily focus on **data collect
 ### Skills & Interests
 * **Programming Languages:**
   <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  </a>
-  <a href="https://sqlite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
-  </a>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    </a>
+    <a href="https://sqlite.org/" target="_blank">
+      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
+    </a>
   </p>
 
 * **Data Tools:** BigQuery, PowerBi, DAX, Looker Studio, GA4
+  <p align="left">
+    <a href="https://cloud.google.com/bigquery" target="_blank">
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery Badge">
+    </a>
+    <a href="https://www.microsoft.com/power-platform/products/power-bi/" target="_blank">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI Badge">
+    </a>
+    <a href="https://cloud.google.com/bigquery" target="_blank">
+      <img src="https://img.shields.io/badge/DAX-667799?style=for-the-badge&logoColor=white" alt="DAX Badge">
+    </a>
+    <a href="https://lookerstudio.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Looker%20Studio-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio Badge">
+    </a>
+    <a href="https://marketingplatform.google.com/about/analytics/" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics Badge">
+    </a>
+  </p>
+
 * **Cloud Platform:**
   <p align="left">
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge">
-  </a>
+    <a href="https://cloud.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge">
+    </a>
+  </p>
  
 * **Interests:** Data Wrangling, Data Analysis, ETL, Automation
 
@@ -36,11 +55,13 @@ This is the place where I share my projects. I primarily focus on **data collect
 
 ---
 ### Let's connect!
-* <a href="https://www.linkedin.com/in/marcin-borowski-a77ba4158/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/marcin-borowski-a77ba4158/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+  </p>
 
-* <p align="left">
+  <p align="left">
   <a href="mailto:marcin.borowski84@gmail.com">
     <img src="https://img.shields.io/badge/Email-667E8B?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge">
   </a>
