@@ -14,21 +14,17 @@ This is the place where I share my projects. I primarily focus on **data collect
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   </a>
   <a href="https://sqlite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
   </a>
   </p>
 
 * **Data Tools:** BigQuery, PowerBi, DAX, Looker Studio, GA4
-* **Cloud Platform:** Google Cloud Platform (GCP)
+* **Cloud Platform:**
   <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge">
   </a>
-  <a href="https://sqlite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
-  </a>
-  </p>
-  
+ 
 * **Interests:** Data Wrangling, Data Analysis, ETL, Automation
 
 ---
@@ -46,11 +42,10 @@ This is the place where I share my projects. I primarily focus on **data collect
 
 * <p align="left">
   <a href="mailto:marcin.borowski84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Email-667E8B?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge">
   </a>
   </p>
 
-* **Email:** [e-mail me!](mailto:marcin.borowski84@gmail.com)
 
 <!---
 MrSz-84/MrSz-84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
