@@ -43,6 +43,23 @@ This is the place where I share my projects. I primarily focus on **data collect
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge">
     </a>
   </p>
+
+* **IDEs:**
+  <p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code Badge">
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+      <img src="https://img.shields.io/badge/PyCharm-222222.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm Badge">
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="PyCharm Badge">
+    </a>
+  </p>
+  
+  
+   	
+  
  
 * **Interests:** Data Wrangling, Data Analysis, ETL, Automation
 
