@@ -18,7 +18,7 @@ This is the place where I share my projects. I primarily focus on **data collect
     </a>
   </p>
 
-* **Data Tools:** BigQuery, PowerBi, DAX, Looker Studio, GA4
+* **Data Tools:**
   <p align="left">
     <a href="https://cloud.google.com/bigquery" target="_blank">
       <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery Badge">
@@ -80,7 +80,13 @@ This is the place where I share my projects. I primarily focus on **data collect
 
   <p align="left">
   <a href="mailto:marcin.borowski84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-667E8B?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  </p>
+
+  <p align="left">
+  <a href="https://github.com/MrSz-84">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
   </p>
 
