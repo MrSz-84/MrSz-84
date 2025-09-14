@@ -8,7 +8,16 @@ This is the place where I share my projects. I primarily focus on **data collect
 
 ---
 ### Skills & Interests
-* **Programming Languages:** Python, SQL
+* **Programming Languages:**
+  <p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  </a>
+  <a href="https://sqlite.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
+  </a>
+</p>
+
 * **Data Tools:** BigQuery, PowerBi, DAX, Looker Studio, GA4
 * **Cloud Platform:** Google Cloud Platform (GCP)
 * **Interests:** Data Wrangling, Data Analysis, ETL, Automation
