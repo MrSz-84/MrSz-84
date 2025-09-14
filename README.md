@@ -40,11 +40,9 @@ This is the place where I share my projects. I primarily focus on **data collect
 
 ---
 ### Let's connect!
-* <p align="left">
-  <a href="linkedin.com/in/marcin-borowski-a77ba4158">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  </p>
+* <a href="https://www.linkedin.com/in/marcin-borowski-a77ba4158/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
 * <p align="left">
   <a href="mailto:marcin.borowski84@gmail.com">
