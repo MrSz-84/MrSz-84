@@ -14,6 +14,13 @@ This is the place where I share my projects. I primarily focus on **data collect
 * **Interests:** Data Wrangling, Data Analysis, ETL, Automation
 
 ---
+### What am I looking for?
+* Any opportunity to learn new things!
+* Side projects and gigs, especially in the field of data.
+* Open source projects to contribute.
+* And maybe even a role in fields of my interest. This in fact is the fastest way to learn!
+
+---
 ### Let's connect!
 * **LinkedIn:** [Visit my profile!](linkedin.com/in/marcin-borowski-a77ba4158)
 * **Email:** [e-mail me!](mailto:marcin.borowski84@gmail.com)
