@@ -12,14 +12,16 @@ This is the place where I share my projects. I primarily focus on **data collect
 
   [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![SQL Badge](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+  [![DAX Badge](https://img.shields.io/badge/DAX-667799?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/dax/)
 
 * **Data Tools:**
 
   [![BigQuery Badge"](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
   [![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi/)
-  [![DAX Badge](https://img.shields.io/badge/DAX-667799?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/dax/)
   [![Looker Studio Badge](https://img.shields.io/badge/Looker%20Studio-1A73E8?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
   [![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://marketingplatform.google.com/about/analytics/)
+  [![Power Query Badge](https://img.shields.io/badge/Power%20Query-008000?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query)
+  [![Excel Badge](https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logoColor=white)](https://support.microsoft.com/en-us/excel)
 
   
 
